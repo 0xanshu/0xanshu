@@ -1,10 +1,9 @@
-<p align="left"><h2>Hello! Priyanshu here ✌️</h2> 
 <!-- <img align="left" src="https://komarev.com/ghpvc/?username=anshucodie&style=flat-square&abbreviated=true&color=green" alt="anshuCodie" />  -->
-</p>
-<br />
-- 💻 <b>Web Developer</b> <br />
-- ✨ <b>priyanshu.script@gmail.com</b> <br />
-<br/>
+<h2 align="left">Hello! Priyanshu here ✌️</h2>
+
+- 🌐 **[Portfolio Website](https://anshujs.vercel.app/)**
+- 💻 **Web Developer**
+- ✨ **[priyanshu.script@gmail.com](mailto:priyanshu.script@gmail.com)**
 
 <h2 align="left">Tools I use..</h2>
 <div align="left">
