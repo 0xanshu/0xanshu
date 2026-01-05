@@ -2,7 +2,8 @@
 <h2 align="left">Hello! Priyanshu here ✌️</h2>
 
 - 🌐 **[Portfolio Website](https://anshujs.vercel.app/)**
-- 💻 **Web Developer**
+- 📍 **Delhi, India**
+- 💻 **Web Developer & DevOps**
 - ✨ **[priyanshu.script@gmail.com](mailto:priyanshu.script@gmail.com)**
 
 <h2 align="left">Tools I use..</h2>
