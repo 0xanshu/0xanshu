@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="27" alt="firebase logo"  />
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="27" alt="googlecloud logo"  />
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="27" alt="jira logo"  />
+  <img src="https://komarev.com/ghpvc/?username=0xanshu&style=for-the-badge&color=1f6feb" alt="Profile views" />
 
 </div>
 
