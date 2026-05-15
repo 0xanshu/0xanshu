@@ -4,7 +4,7 @@
 - 🌐 **[Portfolio Website](https://anshujs.vercel.app/)**
 - 📍 **Delhi, India**
 - 💻 **Web Developer & DevOps**
-- ✨ **[priyanshu.script@gmail.com](mailto:priyanshu.script@gmail.com)**
+- ✨ **[priyanshu.jsx@gmail.com](mailto:priyanshu.script@gmail.com)**
 
 <h2 align="left">Lang I know..</h2>
 <div align="left">
@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="27" alt="gitlab logo"  />
   <img src="https://img.shields.io/badge/openSUSE-73BA25?logo=opensuse&logoColor=black&style=for-the-badge" height="27" alt="opensuse logo"  />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="27" alt="linux logo"  />
+  <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="27" alt="apple logo"  />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="27" alt="vscode logo"  />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="27" alt="docker logo"  />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="27" alt="firebase logo"  />
