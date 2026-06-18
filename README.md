@@ -1,15 +1,13 @@
 <!-- <img align="left" src="https://komarev.com/ghpvc/?username=anshucodie&style=flat-square&abbreviated=true&color=green" alt="anshuCodie" />  -->
 <h2 align="left">Hello! Priyanshu here ✌️</h2>
 
-- 🌐 **[Portfolio Website](https://anshujs.vercel.app/)**
-- 📍 **Delhi, India**
-- 💻 **Web Developer & DevOps**
-- ✨ **[priyanshu.jsx@gmail.com](mailto:priyanshu.script@gmail.com)**
+- **[Portfolio Website](https://anshujs.vercel.app/)**
+- **Delhi, India**
+- **Web Developer & DevOps**
+- **[priyanshu.jsx@gmail.com](mailto:priyanshu.jsx@gmail.com)**
 
 <h2 align="left">Lang & Tools I know..</h2>
 <div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="27" alt="html5 logo"  />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="27" alt="tailwindcss logo"  />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="27" alt="typescript logo"  />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="27" alt="nodejs logo"  />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="27" alt="express logo"  />
