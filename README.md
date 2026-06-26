@@ -1,9 +1,9 @@
 <!-- <img align="left" src="https://komarev.com/ghpvc/?username=anshucodie&style=flat-square&abbreviated=true&color=green" alt="anshuCodie" />  -->
 <h2 align="left">Hello! Priyanshu here ✌️</h2>
 
-- **[Portfolio Website](https://anshujs.vercel.app/)**
+- **[Portfolio Website](https://0xanshu.vercel.app/)**
 - **Delhi, India**
-- **Web Developer & DevOps**
+- **Backend Dev & DevOps**
 - **[priyanshu.jsx@gmail.com](mailto:priyanshu.jsx@gmail.com)**
 
 <h2 align="left">Lang & Tools I know..</h2>
