@@ -10,6 +10,7 @@ Currently building **[Scrawn](https://github.com/ScrawnDotDev/Scrawn)**.
 ## I know..
 <div align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="26" alt="typescript logo"  />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="26" alt="go logo"  />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="26" alt="nodejs logo"  />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="26" alt="express logo"  />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="26" alt="react logo"  />
@@ -17,15 +18,18 @@ Currently building **[Scrawn](https://github.com/ScrawnDotDev/Scrawn)**.
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="26" alt="mongodb logo"  />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="26" alt="mysql logo"  />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="26" alt="postgresql logo"  />
+  <img src="https://img.shields.io/badge/Redis-DD0031?logo=redis&logoColor=white&style=for-the-badge" height="26" alt="redis logo"  />
+  <img src="https://img.shields.io/badge/Drizzle-000000?logo=drizzle&logoColor=C5F74F&style=for-the-badge" height="26" alt="drizzle logo"  />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?logo=prisma&logoColor=white&style=for-the-badge" height="26" alt="prisma logo"  />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="26" alt="docker logo"  />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="26" alt="cplusplus logo"  />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="26" alt="python logo"  />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="26" alt="kubernetes logo"  />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?logo=githubactions&logoColor=white&style=for-the-badge" height="26" alt="githubactions logo"  />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" height="26" alt="postman logo"  />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="26" alt="git logo"  />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="26" alt="linux logo"  />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="26" alt="firebase logo"  />
-  <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="26" alt="googlecloud logo"  />
-  <img src="https://komarev.com/ghpvc/?username=0xanshu&style=for-the-badge&color=1f6feb" alt="Profile views" />
-
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="26" alt="googlecloud logo"  />
+  <img src="https://komarev.com/ghpvc/?username=0xanshu&style=for-the-badge&color=1f6feb" alt="Profile views" height="26"/>
 </div>
 <br/>
 
